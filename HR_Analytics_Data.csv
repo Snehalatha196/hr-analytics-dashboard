@@ -1,0 +1,51 @@
+EmployeeID,EmployeeName,Gender,Age,Department,JobRole,Salary,ExperienceYears,PerformanceRating,Attrition,JoiningDate,salaryBand 
+E001,Anita,Female,28,HR,HR Executive,35000,3,4,No,12-03-2021,low
+E002,Rahul,Male,32,IT,Software Engineer,65000,6,5,No,15-07-2019,medium
+E003,Sneha,Female,30,Finance,Accountant,48000,5,4,No,20-01-2020,medium
+E004,Amit,Male,26,Sales,Sales Executive,40000,2,3,Yes,11-09-2022,medium
+E005,Priya,Female,35,IT,Team Lead,85000,10,5,No,18-06-2016,high
+E006,Arjun,Male,29,HR,Recruiter,38000,4,3,Yes,22-11-2021,low
+E007,Kavya,Female,31,Finance,Financial Analyst,52000,7,4,No,05-05-2018,medium
+E008,Vikram,Male,27,IT,System Admin,60000,5,4,No,09-08-2020,medium
+E009,Divya,Female,24,Sales,Sales Executive,37000,2,3,Yes,14-02-2023,low
+E010,Rohit,Male,38,IT,Project Manager,95000,14,5,No,01-04-2014,high
+E011,Nisha,Female,29,HR,HR Executive,36000,4,4,No,17-07-2021,low
+E012,Karan,Male,33,Finance,Senior Accountant,60000,8,4,No,19-03-2017,medium
+E013,Meena,Female,27,IT,Software Engineer,62000,5,4,No,12-12-2019,medium
+E014,Deepak,Male,30,Sales,Sales Manager,75000,9,5,No,23-10-2016,high
+E015,Swathi,Female,26,HR,Recruiter,34000,3,3,Yes,06-01-2022,low
+E016,Manoj,Male,34,Finance,Finance Manager,88000,11,5,No,28-08-2015,high
+E017,Pooja,Female,28,IT,Software Engineer,64000,6,4,No,02-06-2019,medium
+E018,Suresh,Male,31,Sales,Sales Executive,42000,5,3,Yes,15-03-2020,medium
+E019,Latha,Female,36,HR,HR Manager,78000,12,5,No,19-09-2013,high
+E020,Ajay,Male,25,IT,System Admin,58000,3,3,Yes,25-11-2022,medium
+E021,Riya,Female,29,Finance,Accountant,50000,6,4,No,10-01-2018,medium
+E022,Varun,Male,27,Sales,Sales Executive,39000,3,3,Yes,07-07-2022,low
+E023,Neha,Female,32,IT,Team Lead,82000,9,5,No,13-02-2016,high
+E024,Prakash,Male,40,Finance,Finance Director,120000,18,5,No,30-05-2010,high
+E025,Shalini,Female,28,HR,HR Executive,35500,4,4,No,11-11-2021,low
+E026,Harsha,Male,26,IT,Software Engineer,61000,4,4,No,16-08-2020,medium
+E027,Asha,Female,30,Sales,Sales Manager,73000,8,4,No,05-04-2017,high
+E028,Vinay,Male,29,Finance,Financial Analyst,54000,6,4,No,18-03-2019,medium
+E029,Renu,Female,27,HR,Recruiter,34500,3,3,Yes,21-06-2022,low
+E030,Akash,Male,35,IT,Project Manager,90000,12,5,No,09-09-2014,high
+E031,Keerthi,Female,31,Finance,Senior Accountant,61000,8,4,No,22-02-2017,medium
+E032,Sunil,Male,28,Sales,Sales Executive,41000,4,3,Yes,19-01-2021,medium
+E033,Anjali,Female,29,IT,Software Engineer,63000,5,4,No,03-07-2019,medium
+E034,Ramesh,Male,37,HR,HR Manager,80000,13,5,No,17-10-2012,high
+E035,Deepa,Female,26,Finance,Accountant,47000,4,3,Yes,08-12-2021,medium
+E036,Santosh,Male,33,IT,System Admin,62000,7,4,No,25-04-2018,medium
+E037,Shreya,Female,30,Sales,Sales Manager,76000,9,5,No,14-05-2016,high
+E038,Naveen,Male,27,IT,Software Engineer,60000,4,4,No,12-09-2020,medium
+E039,Pallavi,Female,34,Finance,Finance Manager,87000,10,5,No,27-06-2015,high
+E040,Raj,Male,29,Sales,Sales Executive,40500,5,3,Yes,04-03-2020,medium
+E041,Madhavi,Female,28,HR,HR Executive,36000,4,4,No,15-08-2021,low
+E042,Girish,Male,32,IT,Team Lead,83000,9,5,No,01-01-2016,high
+E043,Sandhya,Female,31,Finance,Financial Analyst,55000,7,4,No,18-02-2018,medium
+E044,Kishore,Male,26,Sales,Sales Executive,38000,3,3,Yes,29-07-2022,low
+E045,Rekha,Female,30,IT,Software Engineer,65000,6,4,No,20-10-2019,medium
+E046,Suraj,Male,36,Finance,Finance Manager,89000,12,5,No,09-03-2014,high
+E047,Bindu,Female,27,HR,Recruiter,35000,3,3,Yes,12-06-2022,low
+E048,Aravind,Male,28,IT,System Admin,59000,5,4,No,07-11-2020,medium
+E049,Geetha,Female,33,Sales,Sales Manager,77000,10,5,No,21-09-2015,high
+E050,Murali,Male,30,Finance,Accountant,51000,6,4,No,05-05-2018,medium
