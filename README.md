@@ -23,4 +23,6 @@ This project analyzes HR employee data to identify key workforce insights such a
 - Business Insight Generation
 
 This project demonstrates my ability to transform raw data into meaningful insights to support business decision-making.
+## Dashboard Preview
 
+![HR Dashboard](dashboard-screenshot.png)
